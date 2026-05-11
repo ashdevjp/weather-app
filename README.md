@@ -4,7 +4,7 @@ A retro pixel art themed weather app built with React.
 Get real-time weather data for any city in the world.
 
 ## Live Demo
-[View Live App](https://weather-app-git-main-ashishs-projects-1f399ab3.vercel.app/)
+[View Live App](https://ashish-pixelweather.vercel.app/)
 
 ## Features
 - Real-time weather data from OpenWeatherMap API
